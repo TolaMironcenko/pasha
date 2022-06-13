@@ -1,0 +1,5 @@
+*env
+*dist
+*build
+*.DS_Store
+*integral.spec
