@@ -4,8 +4,8 @@ pasha
 
 чтобы установить все зависимости необходимо написать: 
 
-###pip install -r -requirements.txt
+pip install -r -requirements.txt
 
 чтобы собрать проект в exe файл нужно написать:
 
-###pyinstaller --onefile integral.py
+pyinstaller --onefile integral.py
